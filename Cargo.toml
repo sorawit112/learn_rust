@@ -1,6 +1,6 @@
 [workspace]
 
 members = [
-    "a_star", "data_types",
+    "a_star", "data_types", "functions",
     "var_and_mut"
 ]
