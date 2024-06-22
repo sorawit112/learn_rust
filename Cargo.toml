@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "a_star",
+    "var_and_mut"
+]
