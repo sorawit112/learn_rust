@@ -1,7 +1,7 @@
 [workspace]
 
 members = [
-    "a_star", "control_flow", "data_types", "enum_and_matching", "functions", "ownership", "reference_and_borrowing", "slice", "structt",
+    "a_star", "backyard", "control_flow", "data_types", "enum_and_matching", "functions", "ownership", "reference_and_borrowing", "restaurant", "slice", "structt",
     "var_and_mut"
 ]
 resolver = "2"
