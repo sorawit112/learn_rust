@@ -1,0 +1,14 @@
+[package]
+name = "collections"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "vec"
+path = "src/vec.rs"
+
+[[bin]]
+name = "hashmap"
+path = "src/hashmap.rs"
+
+[dependencies]
