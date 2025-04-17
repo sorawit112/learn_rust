@@ -1,0 +1,14 @@
+[package]
+name = "concurrency"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "channel"
+path = "src/channel.rs"
+
+[[bin]]
+name = "mutex"
+path = "src/mutex.rs"
+
+[dependencies]
