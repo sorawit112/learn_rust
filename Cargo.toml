@@ -2,6 +2,6 @@
 
 members = [
     "a_star", "backyard", "collections", "control_flow", "data_types", "enum_and_matching", "error_handling", "functions", "ownership", "reference_and_borrowing", "restaurant", "slice", "smart_pointers", "structt", "traits",
-    "var_and_mut"
+    "var_and_mut", "maze-solver"
 ]
 resolver = "2"
