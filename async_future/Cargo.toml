@@ -1,0 +1,28 @@
+[package]
+name = "async_future"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+time = "0.3.41"
+trpl = "0.2.0"
+
+[[bin]]
+name = "async"
+path = "src/async.rs"
+
+[[bin]]
+name = "conc"
+path = "src/conc.rs"
+
+[[bin]]
+name = "channel"
+path = "src/channel.rs"
+
+[[bin]]
+name = "yielding"
+path = "src/yielding.rs"
+
+[[bin]]
+name = "streams"
+path = "src/streams.rs"
