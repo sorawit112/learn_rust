@@ -26,3 +26,7 @@ path = "src/yielding.rs"
 [[bin]]
 name = "streams"
 path = "src/streams.rs"
+
+[[bin]]
+name = "thread_async"
+path = "src/thread_async.rs"
